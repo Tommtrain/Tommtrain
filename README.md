@@ -1,5 +1,4 @@
-## 👋 Hello!
+👋 Hello!
+⚙️ I love computer science, math, and electronics!
 
-⚙️ I loveeee computer science, math and electronics!
-
-🧱 I usually try to make some small projects on my own or with friends to understand better these amazing domains :)
+🧱 I often work on small projects, either on my own or with friends, to better understand these amazing fields :)
